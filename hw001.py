@@ -41,8 +41,10 @@ print("... Let's say that again... \n")
 # Run the program again to see the results.
 
 # Step 3: Now insert "hello()" back into the editor buffer
+# hello()
 # below this line. Try using the auto-complete feature. After
 # you type "hel", possible completions should appear.
+hello()
 # Use the arrow keys or the mouse to select, and hit enter.
 
 # Save the file. Run it again to see the results.
@@ -52,13 +54,13 @@ print("... Let's say that again... \n")
 # in the values for length, width, height, and your name.
 # Then save and run the program again.
 
-# length = 0
-# width = 0
-# height = 0
+length = 4
+width = 4
+height = 4
 #
-# me = "<your name here>"
-# print("Volume =", width * length * height)
-# print("My name is", me)
+me = "Sara Behbakht"
+print("Volume =", width * length * height)
+print("My name is", me)
 
 # Step 5: You can also run Python programs in PyCharm as well.
 # In PyCharm, click File and then New Project. Make sure the

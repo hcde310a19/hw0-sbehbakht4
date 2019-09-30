@@ -41,6 +41,7 @@ print("... Let's say that again... \n")
 # Run the program again to see the results.
 
 # Step 3: Now insert "hello()" back into the editor buffer
+hello()
 # below this line. Try using the auto-complete feature. After
 # you type "hel", possible completions should appear.
 # Use the arrow keys or the mouse to select, and hit enter.
